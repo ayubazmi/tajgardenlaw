@@ -1,0 +1,8 @@
+{
+  "name": "Taj Garden Lawns & Banquet",
+  "description": "A luxury event venue website for Taj Garden Lawns in Sangamner, Maharashtra, featuring an AI-powered event planning assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
